@@ -21,15 +21,17 @@ The Stuff Below Will Explain Current Projects And Below To the Logging
 
 ⦿Logs Changes System Change Logs May Be included.
 
-⦿Has Early FILEENGINE D feature JSON
 
 ⦿There Will Be two versions of fileEngine, FileEngineD and FileEngineR, FileEngineD Will Be A debug with folders for use
+
+⦿FILEENGINE D Has Early feature JSON
+
 
 And FileEngineR will be a release Version Both will be Open Access
 
 # Warning
 
-FileEngine maynot work if edited as it is way to hard to track errors because of the error system as NO LINE ERROR Specifaction will Not be Avalible
+FileEngine may not work if edited as it is way to hard to track errors because of the error system as NO LINE ERROR Specifaction will Not be Avalible
 😵😵😵😵😵😵
 # LOGING Cababilites
 ⦿Logs Recent Errors
@@ -41,8 +43,4 @@ FileEngine maynot work if edited as it is way to hard to track errors because of
 # Avalibility
 
 Currently FileEngine Postponed due to bugs
-
-
-//<img src="https://www.memecreatororg/static/images/memes/5272100.jpg" alt="Meme Creator - Funny Tomorrow is launch day??? Meme Generator at  //MemeCreatororg!"/>![image](https://user-imges.githubusercontent.com/88864958/163011252-ae4fb78a-0110-45e6-aa53-392c1e41dbf7.png)
-
 
