@@ -42,8 +42,4 @@ FileEngine may not work if edited as it is way to hard to track errors because o
 
 # Avalibility
 
-Currently FileEngine is now going to be realeased tommorow(Maybe Today).
-
-![image](https://user-images.githubusercontent.com/88864958/163095003-715a2f26-597d-46eb-8747-2cdcd885ba4e.png)
-
-
+Currently FileEngine IS RELEASED!!!!!
