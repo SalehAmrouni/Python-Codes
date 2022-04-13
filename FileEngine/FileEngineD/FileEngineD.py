@@ -12,7 +12,7 @@ class File_Engine(object):
     def error_found(error):
         try:
 
-            error.str()
+            
             messagebox.showerror(f'FileEngineError', f'Error:{error}')
             with open(f"FILE_SAVES/ERROR_REPORTS/" + f"errorrecent.err", 'w') as f:
                 f.writelines(f"error = {error}")
