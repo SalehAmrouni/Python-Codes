@@ -1,6 +1,6 @@
 # Python-Codes
 
-This Is a libary filled with my projects blank slates waiting to be configured.
+This Is a libary filled with my projects blank slates waiting to be configured(wow picaso).
 
 
 # Current Projects
